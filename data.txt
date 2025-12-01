@@ -1,0 +1,2 @@
+Halo, ini isi dari file data.txt
+Belajar Exception Handling dan File I/O di Java.
